@@ -1,4 +1,5 @@
 **ScuderiaOS Project:**  
+  
 _Hi there! We developed "ScuderiaOS" for pure fun, and for the desire to have a great out-of-the-box distro._  
 __ScuderiaOS__ is based on __Debian 10 Buster (Stable)__ and Is caracterized for:  
 * _Original stability of Debian 10!_
