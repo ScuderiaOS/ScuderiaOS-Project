@@ -5,7 +5,5 @@ __ScuderiaOS__ is based on __Debian 10 Buster (Stable)__ and is a Desktop OS! <i
 * _Original stability of Debian 10!_
 * _Optimized CPU Performance & System general velocity._
 * _Absolutely lightweight and <ins>NOT BLOATED</ins> distro_
-* _Xorg display server by default and not Wayland, which doesn't support greatly nvidia gpu cards._
-* _Minor graphical fixes_
 * _Integrated firewall, enabled by default, with custom rules and settings._
 * _non-free debian repositories included at first start_
